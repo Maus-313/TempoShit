@@ -1,13 +1,1 @@
-This is file 1
 
-This line is added by Maus-landkreuzer in file1_feature_branch
-
-This line is added by Maus-313 in the main/master
-
-This line is added by Maus-313 in the main branch
-
-
-Adding more code by 1st account
-
-
-Code by 1st
